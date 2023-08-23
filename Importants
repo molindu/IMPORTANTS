@@ -1,6 +1,8 @@
 23/08/2023
 
 01.this line used to change editale text ackground change with phone mode
+   path - (C:\Users\molinduy\Desktop\mobitel_projec\TESTING_APP\hello\android\app\src\main\res\values\styles.xml)
+   path - (..\TESTING_APP\hello\android\app\src\main\res\values\styles.xml)
    <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
 
 02. when you edit javascript in ptoject no need to restart the server otherwise you edit the java or installing dependency
