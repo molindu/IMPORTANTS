@@ -9,3 +9,6 @@
     restart the server 
 
 03. can reverse engineering the apk 
+04. jpg format not suitale for icons. PNG & SVG use for icon, and image
+05. when build the app rememer to keep necessary dependencies and remove unused.
+
