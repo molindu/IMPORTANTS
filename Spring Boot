@@ -1,0 +1,34 @@
+Enterprise level application ?
+    * Large software system application
+        complex, scalable, component-based, distributed, mission critical.
+
+          // Before spring Boot came story
+          java EE used to web application before came spring 
+          java SE extended is Java EE 
+          java EE is Specification set introduced by JAVA
+          java EE need to build web application.
+          apllication servers
+            GlassFish
+            Apache Tomacat
+            JBoss
+            jetty
+            WildFly
+          Too complex
+          //
+Why spring came?
+    *JAVA EE more complex
+    *spring simplify java development process 
+Singleton Design pattern
+    one object used for multi purpose
+ 
+    POJO uased to simplify spring
+      * Plain old java object 
+    dependency Injection
+      * Used for makeing tightly couple to loosely couple
+    Declarative 
+        *aspects & common conventions
+can't create object using Interface
+transaction ? 
+      when one data depend on two tales every tales should handle together. That handling process is transaction. 
+
+
