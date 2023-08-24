@@ -1,4 +1,4 @@
-24/08/2023
+24/08/2023 (Theory session video)
 
 Enterprise level application ?
     * Large software system application
@@ -46,4 +46,21 @@ Bean?
             3.has no args constructor
             4. Property names camelcase 
     *Spring Bean - Pojo (Plain Old JAVA Object)
-    *
+    *When use @Component it shows as a bean
+Dependency Injection Methods
+      *property injection
+      *constructor injection
+      *setter methods
+servlet do in web ?
+   handling request response 
+
+JPA (Java Persistance Api) 
+   * use Hibernate - Mysql, Java connecting ORM(object relational mappinf) tool 
+   * Hibernate native api 
+   *JPA
+
+Data access part can using
+   1.jdbc
+   2.orm tool
+   3. spring data jpa
+   
