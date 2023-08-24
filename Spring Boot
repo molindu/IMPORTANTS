@@ -1,3 +1,5 @@
+24/08/2023
+
 Enterprise level application ?
     * Large software system application
         complex, scalable, component-based, distributed, mission critical.
@@ -30,5 +32,18 @@ Singleton Design pattern
 can't create object using Interface
 transaction ? 
       when one data depend on two tales every tales should handle together. That handling process is transaction. 
-
-
+What is concern?
+    behaviour of a class (behaviour == a transaction) 
+cross cutting concern?
+    more than one class repeat one concern 
+OOP?
+    If crosscutting concern exist (one concern used in many classes ) it seperate from system services and apply it. That apply macanisum is OOP. 
+Bean?
+    * JAVA Bean - object that created by using JAVA spec.
+        Qualities of JAVA Bean 
+            1.Propoerties encapsulation.
+            2.has allargs constructor  
+            3.has no args constructor
+            4. Property names camelcase 
+    *Spring Bean - Pojo (Plain Old JAVA Object)
+    *
