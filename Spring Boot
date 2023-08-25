@@ -1,66 +1,69 @@
 24/08/2023 (Theory session video)
 
-Enterprise level application ?
+Enterprise-level application?
     * Large software system application
-        complex, scalable, component-based, distributed, mission critical.
+        complex, scalable, component-based, distributed, mission-critical.
 
-          // Before spring Boot came story
-          java EE used to web application before came spring 
-          java SE extended is Java EE 
-          java EE is Specification set introduced by JAVA
-          java EE need to build web application.
-          apllication servers
+          // Before spring Boot came the story
+          java EE used as a web application before spring 
+          Java SE extended is Java EE 
+          java EE is a Specification set introduced by JAVA
+          java EE needs to build a web application.
+          application servers
             GlassFish
-            Apache Tomacat
+            Apache Tomcat
             JBoss
             jetty
             WildFly
           Too complex
           //
-Why spring came?
-    *JAVA EE more complex
-    *spring simplify java development process 
+Why did spring come?
+    * JAVA EE is more complex
+    * Spring simplifies the Java development process 
 Singleton Design pattern
-    one object used for multi purpose
+    one object used for multi-purpose
  
-    POJO uased to simplify spring
-      * Plain old java object 
+    POJO used to simplify spring
+      * Plain old Java object 
     dependency Injection
-      * Used for makeing tightly couple to loosely couple
+      * Used for making tightly couple to loosely couple
     Declarative 
         *aspects & common conventions
-can't create object using Interface
-transaction ? 
-      when one data depend on two tales every tales should handle together. That handling process is transaction. 
-What is concern?
+can't create objects using Interface
+transaction? 
+      when one data depends on two tales every tale should be handled together. That handling process is a transaction. 
+What is a concern?
     behaviour of a class (behaviour == a transaction) 
-cross cutting concern?
+cross-cutting concern?
     more than one class repeat one concern 
 OOP?
-    If crosscutting concern exist (one concern used in many classes ) it seperate from system services and apply it. That apply macanisum is OOP. 
+    If crosscutting concerns exist (one concern used in many classes ) separate them from system services and apply them. That applies mechanism is OOP. 
 Bean?
-    * JAVA Bean - object that created by using JAVA spec.
+    * JAVA Bean - an object that was created by using JAVA spec.
         Qualities of JAVA Bean 
-            1.Propoerties encapsulation.
-            2.has allargs constructor  
-            3.has no args constructor
+            1. Properties encapsulation.
+            2. Has allargs constructor  
+            3. Has no-args constructor
             4. Property names camelcase 
     *Spring Bean - Pojo (Plain Old JAVA Object)
-    *When use @Component it shows as a bean
+    *When using @Component it shows as a bean
 Dependency Injection Methods
       *property injection
       *constructor injection
       *setter methods
-servlet do in web ?
+Does Servlet do on the web?
    handling request response 
 
-JPA (Java Persistance Api) 
-   * use Hibernate - Mysql, Java connecting ORM(object relational mappinf) tool 
-   * Hibernate native api 
-   *JPA
+JPA (Java Persistence API) 
+   * Use Hibernate - Mysql, Java connecting ORM(object-relational mapping) tool 
+   * Hibernate native API 
+   * JPA
 
-Data access part can using
-   1.jdbc
-   2.orm tool
-   3. spring data jpa
-   
+The data access part can be usin
+   1. jdbc
+   2. Orm tool
+   3. Spring data jpa
+
+25/08/2023
+
+
