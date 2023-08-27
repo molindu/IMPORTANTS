@@ -1,4 +1,4 @@
-Entity class 
+............./Entity/Custom 
 package com.mobitel.mobitel.entity;
 import javax.persistence.Column;
 import javax.persistence.Entity;
