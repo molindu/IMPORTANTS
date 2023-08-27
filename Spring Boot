@@ -25,6 +25,9 @@ Singleton Design pattern
  
     POJO used to simplify spring
       * Plain old Java object 
+            ex : 1. Entity
+        is a object created by using class not extended using any framework extension.
+
     dependency Injection
       * Used for making tightly couple to loosely couple
     Declarative 
@@ -93,6 +96,12 @@ Appication.properties set up
       spring.jpa.generate-ddl = true
       spring.jpa.show-sql=true
       //
+
+CONSTRUCTOR 
+      is a method which is created by using class name and without return type
+      press (Alt + insert) or top task bar -> code -> Generate
+DTO - Data transfer Object
+      used to transfer data between layers
 
 
       
