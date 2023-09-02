@@ -79,7 +79,11 @@ Maven?
    build tool
 Jar - Mobile based
 War - Web based
+(Jar\War is Artifactor type which is built Maven)
 
+basic dependency
+   * Spring Web
+   * 
 Appication.properties set up
       //
       spring.application.name=Mobi-system
