@@ -1,0 +1,5 @@
+* When Spring boot project runs and goto localhost, then localhost say enter username and password then 
+  enter username = user , password = "project privided"(goto run menu and find "Using generated security password")
+
+*When you use secondary dataase data through locahost it will shows some error 
+    *first goto inspect -> application -> coockies right click and delete 
