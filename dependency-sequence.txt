@@ -1,0 +1,11 @@
+	//dependency sequence
+
+1. npm install react react-native
+2. npm install @react-navigation/native @react-navigation/stack
+3. npm install react-native-vector-icons
+4. npm install react-native-gesture-handler react-native-reanimated
+5. npm install react-native-screens react-native-safe-area-context
+6. npm install redux react-redux
+7. npm install react-native-sqlite-storage
+8. npm install --save-dev eslint babel-eslint
+9. npm install --save-dev jest @testing-library/react-native
