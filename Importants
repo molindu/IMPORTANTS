@@ -22,3 +22,5 @@ if you use custom fonts don't use font weight, sometimes different phone will no
 when use text component externally 
       line Break option 
                ex : textShow = {'hello \nworld'}
+I pushed travel lk to azure repo 
+   more >> find repository : push_project_with_git_to_any_repository 
