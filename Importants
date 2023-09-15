@@ -19,3 +19,6 @@ Spring Boot started
 15/09/2023
 
 if you use custom fonts don't use font weight, sometimes different phone will not display text.
+when use text component externally 
+      line Break option 
+               ex : textShow = {'hello \nworld'}
