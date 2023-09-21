@@ -24,3 +24,16 @@ when use text component externally
                ex : textShow = {'hello \nworld'}
 I pushed travel lk to azure repo 
    more >> find repository : push_project_with_git_to_any_repository 
+
+21/09/2023
+
+when you use teanslation to app, local translations included json file should be like this
+   {
+    "change-language": "Translate",
+    "welcome": "Welcome to my app",
+    "logout": "logout",
+    "Sri_Lanka_Tourism_Deveopment_Authority": "Sri Lanka Tourism \nDeveopment Authority",
+    "Powered_by": "Powered by" // No space allowed
+   }
+   think space because some phone will not work this translations
+
