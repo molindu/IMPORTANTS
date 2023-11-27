@@ -17,11 +17,11 @@ Enterprise-level application?<br>
             WildFly
           Too complex
           //
-Why did spring come?
-    * JAVA EE is more complex
-    * Spring simplifies the Java development process 
-Singleton Design pattern
-    one object used for multi-purpose
+Why did spring come? <br>
+    * JAVA EE is more complex <br>
+    * Spring simplifies the Java development process <br>
+Singleton Design pattern<br>
+    one object used for multi-purpose<br>
  
     POJO used to simplify spring
       * Plain old Java object 
@@ -32,13 +32,17 @@ Singleton Design pattern
       * Used for making tightly couple to loosely couple
     Declarative 
         *aspects & common conventions
-can't create objects using Interface
-transaction? 
-      when one data depends on two tales every tale should be handled together. That handling process is a transaction. 
-What is a concern?
-    behaviour of a class (behaviour == a transaction) 
-cross-cutting concern?
+can't create objects using Interface <br>
+transaction? <br>
+      when one data depends on two tales every tale should be handled together.<br> That handling process is a transaction. 
+What is a concern?<br>
+//
+    behaviour of a class (behaviour == a transaction)  
+//
+cross-cutting concern?<br>
+//
     more than one class repeat one concern 
+//
 OOP?
     If crosscutting concerns exist (one concern used in many classes ) separate them from system services and apply them. That applies mechanism is OOP. 
 Bean?
