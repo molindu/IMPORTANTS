@@ -1,8 +1,8 @@
 # 24/08/2023 (Theory session video)
 
-Enterprise-level application?
-    * Large software system application
-        complex, scalable, component-based, distributed, mission-critical.
+Enterprise-level application?<br>
+    * Large software system application<br>
+        complex, scalable, component-based, distributed, mission-critical.<br>
 
           // Before spring Boot came the story
           java EE used as a web application before spring 
