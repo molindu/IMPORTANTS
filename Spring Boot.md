@@ -1,4 +1,4 @@
-24/08/2023 (Theory session video)
+# 24/08/2023 (Theory session video)
 
 Enterprise-level application?
     * Large software system application
@@ -71,7 +71,7 @@ The data access part can be usin
    2. Orm tool
    3. Spring data jpa
 
-25/08/2023
+# 25/08/2023
 
 Stating spring initializer
 Maven? 
