@@ -1,6 +1,6 @@
 # 24/08/2023 (Theory session video)
 
-Enterprise-level application?<br>
+# Enterprise-level application
     * Large software system application<br>
         complex, scalable, component-based, distributed, mission-critical.<br>
 
@@ -17,10 +17,10 @@ Enterprise-level application?<br>
             WildFly
           Too complex
           //
-Why did spring come? <br>
+# Why did spring come? 
     * JAVA EE is more complex <br>
     * Spring simplifies the Java development process <br>
-Singleton Design pattern<br>
+# Singleton Design pattern
     one object used for multi-purpose<br>
  
     POJO used to simplify spring
@@ -33,9 +33,9 @@ Singleton Design pattern<br>
     Declarative 
         *aspects & common conventions
 can't create objects using Interface <br>
-transaction? <br>
+# transaction?
       when one data depends on two tales every tale should be handled together.<br> That handling process is a transaction. 
-What is a concern?<br>
+# What is a concern?
 //
     behaviour of a class (behaviour == a transaction)  
 //
