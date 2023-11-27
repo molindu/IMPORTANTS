@@ -1,8 +1,8 @@
 # 24/08/2023 (Theory session video)
 
 # Enterprise-level application
-    * Large software system application<br>
-        complex, scalable, component-based, distributed, mission-critical.<br>
+    * Large software system application
+        complex, scalable, component-based, distributed, mission-critical.
 
           // Before spring Boot came the story
           java EE used as a web application before spring 
@@ -18,34 +18,30 @@
           Too complex
           //
 # Why did spring come? 
-    * JAVA EE is more complex <br>
-    * Spring simplifies the Java development process <br>
+    * JAVA EE is more complex 
+    * Spring simplifies the Java development process 
 # Singleton Design pattern
-    one object used for multi-purpose<br>
+    one object used for multi-purpose
  
-    POJO used to simplify spring
+# POJO used to simplify spring
       * Plain old Java object 
             ex : 1. Entity
         is a object created by using class not extended using any framework extension.
 
-    dependency Injection
+# dependency Injection
       * Used for making tightly couple to loosely couple
-    Declarative 
+# Declarative 
         *aspects & common conventions
-can't create objects using Interface <br>
+# can't create objects using Interface 
 # transaction?
       when one data depends on two tales every tale should be handled together.<br> That handling process is a transaction. 
 # What is a concern?
-//
     behaviour of a class (behaviour == a transaction)  
-//
-cross-cutting concern?<br>
-//
+# cross-cutting concern?
     more than one class repeat one concern 
-//
-OOP?
+# OOP?
     If crosscutting concerns exist (one concern used in many classes ) separate them from system services and apply them. That applies mechanism is OOP. 
-Bean?
+# Bean?
     * JAVA Bean - an object that was created by using JAVA spec.
         Qualities of JAVA Bean 
             1. Properties encapsulation.
@@ -58,10 +54,10 @@ Dependency Injection Methods
       *property injection
       *constructor injection
       *setter methods
-Does Servlet do on the web?
+# Does Servlet do on the web?
    handling request response 
 
-JPA (Java Persistence API) - 2006 
+# JPA (Java Persistence API) - 2006 
    * Use Hibernate - Mysql, Java connecting ORM(object-relational mapping) tool 
    * Hibernate native API 
    * JPA
@@ -70,7 +66,7 @@ JPA (Java Persistence API) - 2006
    * JAVA Specification
    * implementation 
          JPA implementation (orm tool)
-The data access part can be usin
+# The data access part can be usin
    1. jdbc
    2. Orm tool
    3. Spring data jpa
@@ -78,17 +74,17 @@ The data access part can be usin
 # 25/08/2023
 
 Stating spring initializer
-Maven? 
+# Maven? 
    same as gradle
    build tool
 Jar - Mobile based
 War - Web based
 (Jar\War is Artifactor type which is built Maven)
 
-basic dependency
+# basic dependency
    * Spring Web
    * 
-Appication.properties set up
+# Appication.properties set up
       //
       spring.application.name=Mobi-system
       server.port = 8081
@@ -98,17 +94,17 @@ Appication.properties set up
       spring.datasource.username=root
       spring.datasource.password=1234
       
-      #jpa vendor adapter configuration
+# jpa vendor adapter configuration
       
       spring.jpa.database-platform = org.hibernate.dialect.MySQL57Dialect
       spring.jpa.generate-ddl = true
       spring.jpa.show-sql=true
       //
 
-CONSTRUCTOR 
+# CONSTRUCTOR 
       is a method which is created by using class name and without return type
       press (Alt + insert) or top task bar -> code -> Generate
-DTO - Data transfer Object
+# DTO - Data transfer Object
       used to transfer data between layers
 
 
