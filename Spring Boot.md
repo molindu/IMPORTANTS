@@ -50,7 +50,7 @@
             4. Property names camelcase 
     *Spring Bean - Pojo (Plain Old JAVA Object)
     *When using @Component it shows as a bean
-Dependency Injection Methods
+# Dependency Injection Methods
       *property injection
       *constructor injection
       *setter methods
