@@ -85,6 +85,7 @@ War - Web based
    * Spring Web
    * 
 # Appication.properties set up
+```xml
       //
       spring.application.name=Mobi-system
       server.port = 8081
@@ -93,7 +94,7 @@ War - Web based
       spring.datasource.url= jdbc:mysql://localhost:3306/mobitel?createDatabaseIfNotExist=true
       spring.datasource.username=root
       spring.datasource.password=1234
-      
+```  
 # jpa vendor adapter configuration
       
       spring.jpa.database-platform = org.hibernate.dialect.MySQL57Dialect
