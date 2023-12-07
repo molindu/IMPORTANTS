@@ -11,4 +11,8 @@
       Default has Apache Tomcat to up the server.
   * Spring Data JPA - (JAVA Specfication) (JPQL)
     simplify the CRUD Operations without using SQL codes
-    HIBERNATE - ORM tool(Object relation mapping) - JPA Implementation - java object and database mapping   
+    HIBERNATE - ORM tool(Object relation mapping) - JPA Implementation - java object and database mapping
+
+# @Column(name = "active_state",columnDefinition = "TINYINT default 0")
+
+
