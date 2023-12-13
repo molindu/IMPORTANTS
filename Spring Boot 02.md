@@ -13,7 +13,11 @@
   get all requests
 # @CrossOrigin("localhost:4200")
   is used to get only requests coming from "localhost:4200"
-# oooooooooooooooooooooooooooooooooooo layer structure
+# layer structure
+```html
+<img src="https://github.com/images/layered archtecture.jpg" alt="GitHub Logo" width="200"/>
+
+```
 
 * controllers used to handle crud operations, business logic
 * controller recieved the data match to DTO
