@@ -15,7 +15,7 @@
   is used to get only requests coming from "localhost:4200"
 # layer structure
 
-<img src="https://github.com/images/layered archtecture.jpg" alt="GitHub Logo" width="200"/>
+<img src="https://github.com/images/layered_archtecture.jpg" alt="GitHub Logo" width="300"/>
 
 
 * controllers used to handle crud operations, business logic
