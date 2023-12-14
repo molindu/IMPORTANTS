@@ -2,7 +2,7 @@
 # Repositories use as Interface calss 
 # Repository class define using 
   * @Repository
-  * EnableJpaRepository
+  * @EnableJpaRepository
 # repo classes should extend using JpaRepository <entity-name,id-type>
 # Orm(object relational Mapping)
   is a method that manipulates databases data using Object Oriented Language 
