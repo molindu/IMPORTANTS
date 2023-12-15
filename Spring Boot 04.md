@@ -11,7 +11,7 @@ swagger ui
  * add application Properties
    * Spring.mvc.Patchmatch.maching-strategy = ant-path-matcher
 * config -> SwaggerConfig.java
-  ```java
+```java
   //SwaggerConfig.java
   
   package com.springbootacademy.springboot10pos.config;
@@ -34,7 +34,6 @@ public class SwaggerConfig {
     }
     //
 }
-
-  ```
+```
 now upload the code of swagger config file 
 * next goto localhost:8082/swagger-ui.html
