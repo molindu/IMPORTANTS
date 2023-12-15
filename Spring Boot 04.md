@@ -35,5 +35,4 @@ public class SwaggerConfig {
     //
 }
 ```
-now upload the code of swagger config file 
 * next goto localhost:8082/swagger-ui.html
