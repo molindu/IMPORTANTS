@@ -23,7 +23,7 @@ import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 
 public class SwaggerConfig {
-//
+// here to
     @Bean
     public Docket SwaggerApi(){
         return new Docket(DocumentationType.SWAGGER_2)
@@ -32,7 +32,26 @@ public class SwaggerConfig {
                 .paths(PathSelectors.any())
                 .build();
     }
-    //
+//here
 }
+```
+# add @EnableSwagger to main java class
+```java
+package com.springbootacademy.springboot10pos;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
+
+@SpringBootApplication
+@EnableSwagger2 // here
+public class Springboot10posApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Springboot10posApplication.class, args);
+	}
+
+}
+
 ```
 * next goto localhost:8082/swagger-ui.html
