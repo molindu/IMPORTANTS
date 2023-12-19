@@ -16,7 +16,7 @@
 * @NoArgsConstructor
 * @AllArgsConstructor
 * @Getter    ->
-* @Setter    -> = @Data
+* @Setter    ->        @Data // common Anotation for @Getter, @Setter, @ ToString
 * @ToString  ->
 
 # Model MApper Maven
