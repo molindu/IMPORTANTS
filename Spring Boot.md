@@ -1,11 +1,12 @@
 # 24/08/2023 (Theory session video)
 
 # Enterprise-level application
+```txt
     * Large software system application
         complex, scalable, component-based, distributed, mission-critical.
 
           // Before spring Boot came the story
-          java EE used as a web application before spring 
+          java EE(Enterprise Edition ) used as a web application before spring 
           Java SE extended is Java EE 
           java EE is a Specification set introduced by JAVA
           java EE needs to build a web application.
@@ -17,6 +18,7 @@
             WildFly
           Too complex
           //
+```
 # Why did spring come? 
     * JAVA EE is more complex 
     * Spring simplifies the Java development process 
