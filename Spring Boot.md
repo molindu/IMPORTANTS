@@ -20,20 +20,27 @@
           //
 ```
 # Why did spring come? 
+```txt
     * JAVA EE is more complex 
-    * Spring simplifies the Java development process 
+    * Spring simplifies the Java development process
+```
 # Singleton Design pattern
     one object used for multi-purpose
  
 # POJO used to simplify spring
+```txt
       * Plain old Java object 
             ex : 1. Entity
         is a object created by using class not extended using any framework extension.
-
+```
 # dependency Injection
+```txt
       * Used for making tightly couple to loosely couple
+```
 # Declarative 
+```txt
         *aspects & common conventions
+```
 # can't create objects using Interface 
 # transaction?
       when one data depends on two tales every tale should be handled together.<br> That handling process is a transaction. 
@@ -44,6 +51,7 @@
 # OOP?
     If crosscutting concerns exist (one concern used in many classes ) separate them from system services and apply them. That applies mechanism is OOP. 
 # Bean?
+```txt
     * JAVA Bean - an object that was created by using JAVA spec.
         Qualities of JAVA Bean 
             1. Properties encapsulation.
@@ -52,14 +60,18 @@
             4. Property names camelcase 
     *Spring Bean - Pojo (Plain Old JAVA Object)
     *When using @Component it shows as a bean
+```
 # Dependency Injection Methods
+```txt
       *property injection
       *constructor injection
       *setter methods
+```
 # Does Servlet do on the web?
    handling request response 
 
-# JPA (Java Persistence API) - 2006 
+# JPA (Java Persistence API) - 2006
+```txt
    * Use Hibernate - Mysql, Java connecting ORM(object-relational mapping) tool 
    * Hibernate native API 
    * JPA
@@ -68,11 +80,13 @@
    * JAVA Specification
    * implementation 
          JPA implementation (orm tool)
+```
 # The data access part can be usin
+```txt
    1. jdbc
    2. Orm tool
    3. Spring data jpa
-
+```
 # 25/08/2023
 
 Stating spring initializer
@@ -84,8 +98,10 @@ War - Web based
 (Jar\War is Artifactor type which is built Maven)
 
 # basic dependency
+```txt
    * Spring Web
-   * 
+   *
+```
 # Appication.properties set up
 ```xml
       //
