@@ -6,13 +6,14 @@
   war - for web applications
 
 # ADD BASIC Dependency
+```txt
   * Spring Web
       RESTful - Rest API - The Ability, The Request that has come from the Front-end       and returned to the Front-end again.
       Default has Apache Tomcat to up the server.
   * Spring Data JPA - (JAVA Specfication) (JPQL)
     simplify the CRUD Operations without using SQL codes
     HIBERNATE - ORM tool(Object relation mapping) - JPA Implementation - java object and database mapping
-
+```
 # @Column(name = "active_state",columnDefinition = "TINYINT default 0")
 
 
