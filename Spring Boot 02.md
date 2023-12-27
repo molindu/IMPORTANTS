@@ -17,13 +17,14 @@
 
 <img src="https://github.com/molindu/IMPORTANTS/blob/main/images/layered_archtecture.jpg" alt="GitHub Logo" width="450"/>
 
-
+```txt
 * controllers used to handle crud operations, business logic
 * controller recieved the data match to DTO
 * @RequestBody -> JSON request convert to java
 * @RestController(simplify the creation of RESTful web services. )
     * @ResponseBody
     * Controller
+```
 # Service layer do database saving logics
   * Service classes should call by creating objects in controller methods.
 * Singleton method used to use one object to many time.
