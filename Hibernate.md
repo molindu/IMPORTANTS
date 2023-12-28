@@ -1,3 +1,5 @@
+<span style="color:red;">This text is red.</span>
+
 # ORM (Object-Relational Mapping): 
 ```txt
 * Hibernate is an ORM framework that maps Java objects to database tables and vice versa. 
