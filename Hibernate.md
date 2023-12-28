@@ -1,8 +1,4 @@
-<head>
-  <link rel="stylesheet" href="styles.css">
-</head>
-
-<h2 style="red-highlight {">This text will be highlighted in red.</h2>
+<span style="color:blue">This text will be displayed in blue color.</span>
 
 # ORM (Object-Relational Mapping): 
 ```txt
