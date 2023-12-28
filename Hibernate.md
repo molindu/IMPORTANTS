@@ -1,4 +1,5 @@
-<span style="color:blue">This text will be displayed in blue color.</span>
+[This text will be displayed in blue color](#)
+
 
 # ORM (Object-Relational Mapping): 
 ```txt
