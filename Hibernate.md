@@ -1,7 +1,7 @@
 # what is hibernate in spring boot?
 [In Spring Boot, Hibernate is often used as the default JPA (Java Persistence API) provider for working with relational databases. Hibernate is an ORM (Object-Relational Mapping) framework that simplifies the task of interacting with databases by allowing developers to work with Java objects instead of database tables and SQL queries directly.
 
-When you include the spring-boot-starter-data-jpa dependency in your Spring Boot project, it automatically configures Hibernate as the JPA provider. This starter also includes the necessary dependencies for working with databases such as H2, MySQL, PostgreSQL, etc., making it easy to set up database connectivity in your Spring Boot application.]
+When you include the spring-boot-starter-data-jpa dependency in your Spring Boot project, it automatically configures Hibernate as the JPA provider. This starter also includes the necessary dependencies for working with databases such as H2, MySQL, PostgreSQL, etc., making it easy to set up database connectivity in your Spring Boot application.](#)
 
 # ORM (Object-Relational Mapping): 
 ```txt
