@@ -1,5 +1,4 @@
-`This is a red text example.`
-
+<span style="color:red">This text will be highlighted in red.</span>
 
 # ORM (Object-Relational Mapping): 
 ```txt
