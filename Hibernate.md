@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 
-<h2 style="color:red">This text will be highlighted in red.</h2>
+<h2 style="red-highlight {">This text will be highlighted in red.</h2>
 
 # ORM (Object-Relational Mapping): 
 ```txt
