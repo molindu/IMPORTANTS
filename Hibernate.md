@@ -1,4 +1,4 @@
-<h2>This text will be highlighted in red.</h2>
+<h2 style="color:red">This text will be highlighted in red.</h2>
 
 # ORM (Object-Relational Mapping): 
 ```txt
