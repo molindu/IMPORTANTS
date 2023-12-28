@@ -1,5 +1,6 @@
+```txt
 This is a **red text** example.
-
+```
 # ORM (Object-Relational Mapping): 
 ```txt
 * Hibernate is an ORM framework that maps Java objects to database tables and vice versa. 
