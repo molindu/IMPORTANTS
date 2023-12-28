@@ -1,4 +1,4 @@
-[This text will be displayed in blue color](#)
+[This text will be displayed in blue color](#000)
 
 
 # ORM (Object-Relational Mapping): 
