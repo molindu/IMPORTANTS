@@ -1,9 +1,4 @@
-<style>
-.red-text {
-    color: red;
-}
-</style>
-This is a <span class="red-text">red text</span> example.
+This is a <font color="red">red text</font> example.
 
 # ORM (Object-Relational Mapping): 
 ```txt
