@@ -1,6 +1,8 @@
 # ORM (Object-Relational Mapping): 
 ```txt
-Hibernate is an ORM framework that maps Java objects to database tables and vice versa. As a backend developer, you should understand how Hibernate simplifies database interactions by allowing you to work with Java objects rather than SQL queries directly.
+* Hibernate is an ORM framework that maps Java objects to database tables and vice versa. 
+* As a backend developer, you should understand how Hibernate simplifies database interactions 
+  by allowing you to work with Java objects rather than SQL queries directly.
 ```
 # Entity Mapping: 
 In Hibernate, you define entity classes that represent your database tables. You should know how to annotate these classes with Hibernate annotations such as @Entity, @Table, @Column, @Id, and others to specify their mapping to the database schema.
