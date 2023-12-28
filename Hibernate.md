@@ -1,4 +1,4 @@
-<h6>This text will be highlighted in red.</h6>
+<h2>This text will be highlighted in red.</h2>
 
 # ORM (Object-Relational Mapping): 
 ```txt
