@@ -1,6 +1,10 @@
-```txt
-This is a **red text** example.
-```
+<style>
+.red-text {
+    color: red;
+}
+</style>
+This is a <span class="red-text">red text</span> example.
+
 # ORM (Object-Relational Mapping): 
 ```txt
 * Hibernate is an ORM framework that maps Java objects to database tables and vice versa. 
