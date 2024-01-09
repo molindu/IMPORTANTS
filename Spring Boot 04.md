@@ -9,7 +9,7 @@ swagger ui
 * When use third party libraries create config package and create inside configuration class.
 # if swagger not worked
  * add application Properties
-   * Spring.mvc.Patchmatch.maching-strategy = ant-path-matcher
+   * spring.mvc.patchmatch.maching-strategy = ant-path-matcher
 * config -> SwaggerConfig.java
 ```java
   //SwaggerConfig.java
